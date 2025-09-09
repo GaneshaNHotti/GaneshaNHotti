@@ -1,8 +1,12 @@
 <h1 align="center">Hey 👋, I'm Ganesha N Hotti</h1>
 <h3 align="center">A passionate Software Engineer</h3>
+
 - 👨‍💻 All of my projects are available at [https://ganesha-n-hotti.vercel.app/](https://ganesha-n-hotti.vercel.app/)
+
 - 💬 Ask me about **Python, Angular and Azure**
+
 - 📫 How to reach me **ganeshahotti5112000@gmail.com**
+
 - ⚡ Fun fact **Cats are Cars**
 </br>
 <h3 align="center">Connect with me:</h3>
