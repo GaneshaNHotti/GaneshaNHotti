@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Ganesha N Hotti</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h3 align="center">One Line of Code at a Time.</h3>
 
 - 👨‍💻 All of my projects are available at [https://ganesha-n-hotti.vercel.app/](https://ganesha-n-hotti.vercel.app/)
 
