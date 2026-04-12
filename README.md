@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Ganesha N Hotti</h1>
+<h1 align="center">Hey, I'm Ganesha N Hotti</h1>
 <h3 align="center">Somewhere to Begin!!.</h3>
 
 <!--  - 👨‍💻 All of my projects are available at [https://ganesha-n-hotti.vercel.app/](https://ganesha-n-hotti.vercel.app/) -->
