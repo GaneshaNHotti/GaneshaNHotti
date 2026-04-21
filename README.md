@@ -113,3 +113,9 @@ Accomplished Software Engineer with approximately 4 years of experience speciali
 <b>Fun fact Cats are Cars</b>
 
 </div>
+
+<!-- FOOTER ANIMATION -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=150&section=footer"/>
+</p>
+
