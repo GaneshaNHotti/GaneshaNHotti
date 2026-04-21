@@ -1,48 +1,115 @@
-<h1 align="center">Hey, I'm Ganesha N Hotti</h1>
-<h3 align="center">Somewhere to Begin!!.</h3>
-
-<!--  - 👨‍💻 All of my projects are available at [https://ganesha-n-hotti.vercel.app/](https://ganesha-n-hotti.vercel.app/) -->
-
-- 💬 Ask me about **Python, Angular and Azure**
-
-- 📫 How to reach me **ganeshahotti5112000@gmail.com**
-
-- ⚡ Fun fact **Cats are Cars**
-</br>
-<h3 align="center">Connect with me:</h3>
-</br>
+<!-- ANIMATED HEADER-->
 <p align="center">
-<a href="https://twitter.com/ganesha_hotti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ganesha_hotti" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ganeshanhotti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganeshanhotti" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16022508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16022508" height="30" width="40" /></a>
-<a href="https://fb.com/ganesh.hotti.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ganesh.hotti.3" height="30" width="40" /></a>
-<a href="https://instagram.com/ganesha_hotti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ganesha_hotti" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ganesha_hotti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ganesha_hotti" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ganesha_hotti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ganesha_hotti" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ganesha_hotti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ganesha_hotti" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ganesha_hotti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ganesha_hotti" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@ganesha_hotti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ganesha_hotti" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ganesha_hotti/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ganesha_hotti/profile" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/ganesha_hotti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="ganesha_hotti" height="30" width="40" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Ganesha+N+Hotti;Full+Stack+Explorer;DSA+in+Python;Scaling+Ideas+into+Reality" />
 </p>
+
+---
+
+<!-- TITLE  -->
+<h1 align="center">Ganesha N Hotti</h1>
+<h3 align="center">Full Stack Developer • Open to Opportunities</h3>
+
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=ganeshanhotti&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshanhotti" /> 
+</p>
+
+---
+
+## <img src="https://skillicons.dev/icons?i=devto" height="22"/> About Me
+
+Accomplished Software Engineer with approximately 4 years of experience specializing in scalable backend architectures and high-performance API design . Proficient in Python (FastAPI, Flask) and modern frontend frameworks including React and Angular .
+
+- **Languages:** Python, JavaScript, SQL, C# Programming 
+- **Backend:** FastAPI, Flask, Pydantic, Pandas, NumPy, SQLAlchemy 
+- **Frontend:** React, Redux, Angular, Modern JS 
+- **Cloud & DevOps:** AWS (Lambda, Glue, Athena), Azure (AKS), Docker, Cloud Foundry 
+
+---
+
+<!-- ## <img src="https://skillicons.dev/icons?i=python" height="22"/> Professional Highlights
+
+### ⚡ Serverless Flight-Configuration Backend
+- Architected a serverless FastAPI backend using Python and Pydantic to aggregate complex flight-configuration revision histories into hierarchical monthly KPIs .
+- Implemented server-side SQL transformations (CTES, window functions) and pandas pivoting to reduce frontend processing by 100%, significantly accelerating analyst workflows .
+- Deployed the API as a serverless service using Mangum and AWS Lambda, integrating with AWS Glue/Athena ETL pipelines and Terraform for automated infrastructure management .
+
+### 🛠️ Analytics Tools SPA
+- Co-developed a React + Redux SPA to unify fragmented analytics tools, taking ownership of state management for SPC and Alerting modules to ensure consistent data flow .
+
+### ✈️ Navigation Database Services
+- Engineered and deployed Angular-based features for Navigation Database Services, enhancing user workflows and interface efficiency .
+
+### 🌡️ ISS Thermal Data Visualizer
+- Developed GUI components using PyQt for ISS Thermal data visualization, achieving a 60% reduction in processing time .
+
+--- -->
+
+## <img src="https://skillicons.dev/icons?i=rocket" height="22"/> Achievements
+
+- Achieved 2nd place in the YourStory | Snowflake - Hero Challenge 2025, a nationwide data innovation hackathon.
+- Recognized with the Project of the Year 2022 award for the Placement Management System, selected from 50+ student projects.
+- Obtained an all-state rank of 776 in the Diploma CET conducted across Karnataka.
+
+---
+
+## <img src="https://skillicons.dev/icons?i=github" height="22"/> GitHub Analytics
+
+<p align="center">
+
+  <img src="https://streak-stats.demolab.com?user=GaneshaNHotti&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+
+---
+
+## <img src="https://skillicons.dev/icons?i=github" height="22"/> Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GaneshaNHotti&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## <img src="https://skillicons.dev/icons?i=git" height="22"/> Contribution Heatmap
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/GaneshaNHotti" />
+</p>
+
+---
+
+
+## <img src="https://skillicons.dev/icons?i=git" height="22"/> Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,angular,redux,fastapi,flask,cs,aws,azure,docker,postgres,mysql,git,postman,figma,github,grafana,ai,linux,materialui,pycharm,vscode,stackoverflow&perline=5" />
+</p>
+
+---
+
+## <img src="https://skillicons.dev/icons?i=linkedin" height="22"/> Connect
+
+<p align="center">
+  <a href="mailto:ganeshahotti5112000@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+   <a href="https://www.linkedin.com/in/ganeshanhotti/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://instagram.com/ganesha_hotti/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
+  <a href="https://twitter.com/ganesha_hotti">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+  </a>
+</p>
+
+---
 </br>
-<h3 align="center">Languages and Tools:</h3>
-</br>
-<p align="center"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </br> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-</br>
-</br>
-</br>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ganeshanhotti&show_icons=true&locale=en&layout=compact" alt="ganeshanhotti" /></br></br>
-<img src="https://github-readme-stats.vercel.app/api?username=ganeshanhotti&show_icons=true&locale=en" alt="ganeshanhotti" /></br></br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshanhotti&" alt="ganeshanhotti" /></br></br>
-</div>
-</br>
-</br>
-</br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ganeshanhotti&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshanhotti" /> </p>
 <div align="center">
   
 ![Image](https://github.com/user-attachments/assets/e59df846-b7aa-4833-a032-54ebc6493a7c)
+
+<b>Fun fact Cats are Cars</b>
 
 </div>
