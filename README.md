@@ -110,7 +110,7 @@ Accomplished Software Engineer with approximately 4 years of experience speciali
   
 ![Image](https://github.com/user-attachments/assets/e59df846-b7aa-4833-a032-54ebc6493a7c)
 
-<b>Fun fact Cats are Cars</b>
+<b>Fun fact: Cats are Cars</b>
 
 </div>
 
