@@ -21,7 +21,7 @@ Accomplished Software Engineer with approximately 4 years of experience speciali
 
 - **Languages:** Python, JavaScript, SQL, C# Programming 
 - **Backend:** FastAPI, Flask, Pydantic, Pandas, NumPy, SQLAlchemy 
-- **Frontend:** React, Redux, Angular, Modern JS 
+- **Frontend:** React, Redux, Angular
 - **Cloud & DevOps:** AWS (Lambda, Glue, Athena), Azure (AKS), Docker, Cloud Foundry 
 
 ---
