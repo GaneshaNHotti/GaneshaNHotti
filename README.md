@@ -20,7 +20,7 @@
 Accomplished Software Engineer with approximately 4 years of experience specializing in scalable backend architectures and high-performance API design . Proficient in Python (FastAPI, Flask) and modern frontend frameworks including React and Angular .
 
 - **Languages:** Python, JavaScript, SQL, C# Programming 
-- **Backend:** FastAPI, Flask, Pydantic, Pandas, NumPy, SQLAlchemy 
+- **Backend:** FastAPI, Flask
 - **Frontend:** React, Redux, Angular
 - **Cloud & DevOps:** AWS (Lambda, Glue, Athena), Azure (AKS), Docker, Cloud Foundry 
 
